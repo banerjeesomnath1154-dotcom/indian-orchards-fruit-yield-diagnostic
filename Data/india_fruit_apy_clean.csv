@@ -1,0 +1,646 @@
+record_id,crop_year,state,district,crop,season,area_hectares,production_tonnes,yield_tonnes_per_ha,productivity_tier
+1,2018,Maharashtra,Nagpur,Mango,Whole Year,13490.14,136983.46,10.15,Moderate Yield
+2,2018,Maharashtra,Nashik,Mango,Whole Year,13943.07,199491.51,14.31,High Yield
+3,2018,Maharashtra,Jalgaon,Mango,Whole Year,11297.54,112011.24,9.91,Moderate Yield
+4,2018,Maharashtra,Ratnagiri,Mango,Whole Year,16737.64,207857.84,12.42,High Yield
+5,2018,Maharashtra,Ahmednagar,Mango,Whole Year,10591.58,125578.01,11.86,High Yield
+6,2018,Andhra Pradesh,Anantapur,Mango,Whole Year,10609.75,99049.18,9.34,Moderate Yield
+7,2018,Andhra Pradesh,Chittoor,Mango,Whole Year,12725.89,72751.36,5.72,Low Yield
+8,2018,Andhra Pradesh,Cuddapah,Mango,Whole Year,6825.25,62070.74,9.09,Moderate Yield
+9,2018,Andhra Pradesh,Guntur,Mango,Whole Year,8961.51,101136.18,11.29,High Yield
+10,2018,Andhra Pradesh,Krishna,Mango,Whole Year,9275.93,64646.19,6.97,Low Yield
+11,2018,Uttar Pradesh,Lucknow,Mango,Whole Year,16396.95,162912.87,9.94,Moderate Yield
+12,2018,Uttar Pradesh,Saharanpur,Mango,Whole Year,12202.58,84663.08,6.94,Low Yield
+13,2018,Uttar Pradesh,Varanasi,Mango,Whole Year,10366.85,111726.72,10.78,Moderate Yield
+14,2018,Uttar Pradesh,Ayodhya,Mango,Whole Year,8547.02,97771.46,11.44,High Yield
+15,2018,Uttar Pradesh,Bareilly,Mango,Whole Year,10198.08,99643.05,9.77,Moderate Yield
+16,2018,Karnataka,Kolar,Mango,Whole Year,10194.88,154255.62,15.13,High Yield
+17,2018,Karnataka,Chikkaballapur,Mango,Whole Year,11959.51,93950.59,7.86,Low Yield
+18,2018,Karnataka,Belagavi,Mango,Whole Year,14467.63,107753.33,7.45,Low Yield
+19,2018,Karnataka,Vijayapura,Mango,Whole Year,12626.59,70719.32,5.6,Low Yield
+20,2018,Karnataka,Tumakuru,Mango,Whole Year,8015.44,88106.94,10.99,Moderate Yield
+21,2018,Gujarat,Anand,Mango,Whole Year,14215.4,155351.87,10.93,Moderate Yield
+22,2018,Gujarat,Junagadh,Mango,Whole Year,11653.06,113585.18,9.75,Moderate Yield
+23,2018,Gujarat,Bharuch,Mango,Whole Year,7564.43,65813.49,8.7,Moderate Yield
+24,2018,Gujarat,Banaskantha,Mango,Whole Year,10618.08,139551.36,13.14,High Yield
+25,2018,Gujarat,Valsad,Mango,Whole Year,13030.85,79389.15,6.09,Low Yield
+26,2018,Jammu & Kashmir,Baramulla,Apple,Whole Year,16215.31,175851.03,10.84,Moderate Yield
+27,2018,Jammu & Kashmir,Shopian,Apple,Whole Year,12461.54,172405.77,13.84,High Yield
+28,2018,Jammu & Kashmir,Pulwama,Apple,Whole Year,18866.25,279104.29,14.79,High Yield
+29,2018,Jammu & Kashmir,Anantnag,Apple,Whole Year,11852.93,131239.94,11.07,Moderate Yield
+30,2018,Jammu & Kashmir,Srinagar,Apple,Whole Year,16242.24,242441.99,14.93,High Yield
+31,2018,Himachal Pradesh,Shimla,Apple,Whole Year,13203.1,151083.38,11.44,Moderate Yield
+32,2018,Himachal Pradesh,Kullu,Apple,Whole Year,10851.24,91273.9,8.41,Low Yield
+33,2018,Himachal Pradesh,Mandi,Apple,Whole Year,18046.97,289991.71,16.07,High Yield
+34,2018,Himachal Pradesh,Kinnaur,Apple,Whole Year,14729.96,221105.52,15.01,High Yield
+35,2018,Himachal Pradesh,Solan,Apple,Whole Year,16356.14,164618.67,10.06,Moderate Yield
+36,2018,Andhra Pradesh,Anantapur,Banana,Whole Year,8722.79,499853.31,57.3,High Yield
+37,2018,Andhra Pradesh,Chittoor,Banana,Whole Year,7928.35,456016.09,57.52,High Yield
+38,2018,Andhra Pradesh,Cuddapah,Banana,Whole Year,2760.51,142373.91,51.58,High Yield
+39,2018,Andhra Pradesh,Guntur,Banana,Whole Year,8174.09,348281.15,42.61,Moderate Yield
+40,2018,Andhra Pradesh,Krishna,Banana,Whole Year,8183.52,238135.92,29.1,Low Yield
+41,2018,Maharashtra,Nagpur,Banana,Whole Year,7560.66,361829.75,47.86,High Yield
+42,2018,Maharashtra,Nashik,Banana,Whole Year,10955.79,447586.07,40.85,Moderate Yield
+43,2018,Maharashtra,Jalgaon,Banana,Whole Year,6383.01,261613.69,40.99,Moderate Yield
+44,2018,Maharashtra,Ratnagiri,Banana,Whole Year,9830.8,468241.09,47.63,High Yield
+45,2018,Maharashtra,Ahmednagar,Banana,Whole Year,6940.48,340820.18,49.11,High Yield
+46,2018,Gujarat,Anand,Banana,Whole Year,8194.16,432235.06,52.75,High Yield
+47,2018,Gujarat,Junagadh,Banana,Whole Year,6595.89,279525.26,42.38,Moderate Yield
+48,2018,Gujarat,Bharuch,Banana,Whole Year,7215.78,240226.88,33.29,Low Yield
+49,2018,Gujarat,Banaskantha,Banana,Whole Year,8592.24,404595.2,47.09,High Yield
+50,2018,Gujarat,Valsad,Banana,Whole Year,8010.23,345427.57,43.12,Moderate Yield
+51,2018,Karnataka,Kolar,Banana,Whole Year,5169.26,215221.3,41.63,Moderate Yield
+52,2018,Karnataka,Chikkaballapur,Banana,Whole Year,7314.57,282209.14,38.58,Moderate Yield
+53,2018,Karnataka,Belagavi,Banana,Whole Year,7677.43,370300.93,48.23,High Yield
+54,2018,Karnataka,Vijayapura,Banana,Whole Year,11772.37,546198.21,46.4,High Yield
+55,2018,Karnataka,Tumakuru,Banana,Whole Year,8515.1,378108.18,44.4,Moderate Yield
+56,2018,Maharashtra,Nagpur,Citrus,Whole Year,4942.92,68807.71,13.92,Moderate Yield
+57,2018,Maharashtra,Nashik,Citrus,Whole Year,9643.05,206262.2,21.39,High Yield
+58,2018,Maharashtra,Jalgaon,Citrus,Whole Year,9043.14,134784.76,14.9,Moderate Yield
+59,2018,Maharashtra,Ratnagiri,Citrus,Whole Year,9417.56,98827.55,10.49,Low Yield
+60,2018,Maharashtra,Ahmednagar,Citrus,Whole Year,12214.2,198551.58,16.26,High Yield
+61,2018,Andhra Pradesh,Anantapur,Citrus,Whole Year,11378.7,128258.86,11.27,Moderate Yield
+62,2018,Andhra Pradesh,Chittoor,Citrus,Whole Year,12831.64,125678.82,9.79,Low Yield
+63,2018,Andhra Pradesh,Cuddapah,Citrus,Whole Year,10893.79,224100.15,20.57,High Yield
+64,2018,Andhra Pradesh,Guntur,Citrus,Whole Year,7147.48,87921.91,12.3,Moderate Yield
+65,2018,Andhra Pradesh,Krishna,Citrus,Whole Year,9736.67,121606.85,12.49,Moderate Yield
+66,2018,Gujarat,Anand,Citrus,Whole Year,5817.17,82636.91,14.21,Moderate Yield
+67,2018,Gujarat,Junagadh,Citrus,Whole Year,6977.03,107591.23,15.42,High Yield
+68,2018,Gujarat,Bharuch,Citrus,Whole Year,7316.37,136448.86,18.65,High Yield
+69,2018,Gujarat,Banaskantha,Citrus,Whole Year,7639.77,99575.35,13.03,Moderate Yield
+70,2018,Gujarat,Valsad,Citrus,Whole Year,11432.1,117835.31,10.31,Low Yield
+71,2018,Karnataka,Kolar,Citrus,Whole Year,10040.22,179935.08,17.92,High Yield
+72,2018,Karnataka,Chikkaballapur,Citrus,Whole Year,5682.23,82698.62,14.55,Moderate Yield
+73,2018,Karnataka,Belagavi,Citrus,Whole Year,10117.22,165370.7,16.35,High Yield
+74,2018,Karnataka,Vijayapura,Citrus,Whole Year,6562.24,65875.9,10.04,Low Yield
+75,2018,Karnataka,Tumakuru,Citrus,Whole Year,10739.61,159923.04,14.89,Moderate Yield
+76,2018,Maharashtra,Nagpur,Grapes,Whole Year,6375.74,164062.08,25.73,High Yield
+77,2018,Maharashtra,Nashik,Grapes,Whole Year,4979.96,125302.11,25.16,High Yield
+78,2018,Maharashtra,Jalgaon,Grapes,Whole Year,6439.61,131549.92,20.43,Moderate Yield
+79,2018,Maharashtra,Ratnagiri,Grapes,Whole Year,8798.66,232013.31,26.37,High Yield
+80,2018,Maharashtra,Ahmednagar,Grapes,Whole Year,4213.04,114943.39,27.28,High Yield
+81,2018,Karnataka,Kolar,Grapes,Whole Year,4537.98,126770.39,27.94,High Yield
+82,2018,Karnataka,Chikkaballapur,Grapes,Whole Year,7737.89,153957.61,19.9,Moderate Yield
+83,2018,Karnataka,Belagavi,Grapes,Whole Year,7445.06,194047.33,26.06,High Yield
+84,2018,Karnataka,Vijayapura,Grapes,Whole Year,7233.09,242192.53,33.48,High Yield
+85,2018,Karnataka,Tumakuru,Grapes,Whole Year,5631.92,113941.17,20.23,Moderate Yield
+86,2018,Andhra Pradesh,Anantapur,Grapes,Whole Year,4665.73,92945.77,19.92,Moderate Yield
+87,2018,Andhra Pradesh,Chittoor,Grapes,Whole Year,5884.35,151261.69,25.71,High Yield
+88,2018,Andhra Pradesh,Cuddapah,Grapes,Whole Year,6415.04,180493.03,28.14,High Yield
+89,2018,Andhra Pradesh,Guntur,Grapes,Whole Year,6019.5,188215.74,31.27,High Yield
+90,2018,Andhra Pradesh,Krishna,Grapes,Whole Year,5603.01,210677.92,37.6,High Yield
+91,2018,Uttar Pradesh,Lucknow,Guava,Whole Year,5782.08,69384.66,12.0,Moderate Yield
+92,2018,Uttar Pradesh,Saharanpur,Guava,Whole Year,3661.38,61103.5,16.69,High Yield
+93,2018,Uttar Pradesh,Varanasi,Guava,Whole Year,4720.67,82607.01,17.5,High Yield
+94,2018,Uttar Pradesh,Ayodhya,Guava,Whole Year,5591.55,82447.96,14.75,Moderate Yield
+95,2018,Uttar Pradesh,Bareilly,Guava,Whole Year,3941.51,38224.9,9.7,Low Yield
+96,2018,Andhra Pradesh,Anantapur,Guava,Whole Year,4441.86,79941.91,18.0,High Yield
+98,2018,Andhra Pradesh,Cuddapah,Guava,Whole Year,5216.48,85282.2,16.35,High Yield
+99,2018,Andhra Pradesh,Guntur,Guava,Whole Year,3895.18,60523.45,15.54,Moderate Yield
+100,2018,Andhra Pradesh,Krishna,Guava,Whole Year,5072.76,55798.35,11.0,Low Yield
+101,2018,Gujarat,Anand,Guava,Whole Year,5447.23,92399.98,16.96,High Yield
+102,2018,Gujarat,Junagadh,Guava,Whole Year,6353.81,118741.95,18.69,High Yield
+103,2018,Gujarat,Bharuch,Guava,Whole Year,3277.91,38409.28,11.72,Low Yield
+104,2018,Gujarat,Banaskantha,Guava,Whole Year,5643.79,94805.8,16.8,High Yield
+105,2018,Gujarat,Valsad,Guava,Whole Year,5643.81,160761.45,28.48,High Yield
+106,2018,Maharashtra,Nagpur,Guava,Whole Year,5713.61,108412.78,18.97,High Yield
+107,2018,Maharashtra,Nashik,Guava,Whole Year,6192.5,107005.59,17.28,High Yield
+108,2018,Maharashtra,Jalgaon,Guava,Whole Year,4605.91,81323.75,17.66,High Yield
+109,2018,Maharashtra,Ratnagiri,Guava,Whole Year,4033.97,57165.93,14.17,Moderate Yield
+110,2018,Maharashtra,Ahmednagar,Guava,Whole Year,4393.3,67158.44,15.29,Moderate Yield
+111,2019,Maharashtra,Nagpur,Mango,Whole Year,18943.98,110478.2,5.83,Low Yield
+112,2019,Maharashtra,Nashik,Mango,Whole Year,14058.78,90935.15,6.47,Low Yield
+113,2019,Maharashtra,Jalgaon,Mango,Whole Year,10584.2,139948.28,13.22,High Yield
+114,2019,Maharashtra,Ratnagiri,Mango,Whole Year,12192.84,95172.9,7.81,Low Yield
+115,2019,Maharashtra,Ahmednagar,Mango,Whole Year,9854.09,120209.99,12.2,High Yield
+116,2019,Andhra Pradesh,Anantapur,Mango,Whole Year,9808.9,108301.5,11.04,High Yield
+117,2019,Andhra Pradesh,Chittoor,Mango,Whole Year,12136.72,107664.83,8.87,Moderate Yield
+118,2019,Andhra Pradesh,Cuddapah,Mango,Whole Year,18431.83,222744.93,12.08,High Yield
+119,2019,Andhra Pradesh,Guntur,Mango,Whole Year,5924.57,64969.64,10.97,Moderate Yield
+120,2019,Andhra Pradesh,Krishna,Mango,Whole Year,10014.64,126495.75,12.63,High Yield
+121,2019,Uttar Pradesh,Lucknow,Mango,Whole Year,9622.44,98275.51,10.21,Moderate Yield
+122,2019,Uttar Pradesh,Saharanpur,Mango,Whole Year,13514.96,171158.7,12.66,High Yield
+124,2019,Uttar Pradesh,Ayodhya,Mango,Whole Year,10575.16,93766.53,8.87,Moderate Yield
+125,2019,Uttar Pradesh,Bareilly,Mango,Whole Year,17296.36,199123.55,11.51,High Yield
+126,2019,Karnataka,Kolar,Mango,Whole Year,8217.35,105138.16,12.79,High Yield
+127,2019,Karnataka,Chikkaballapur,Mango,Whole Year,18366.47,240254.79,13.08,High Yield
+128,2019,Karnataka,Belagavi,Mango,Whole Year,7441.89,69130.8,9.29,Moderate Yield
+129,2019,Karnataka,Vijayapura,Mango,Whole Year,15800.73,137953.43,8.73,Moderate Yield
+130,2019,Karnataka,Tumakuru,Mango,Whole Year,13331.46,165797.84,12.44,High Yield
+131,2019,Gujarat,Anand,Mango,Whole Year,9219.21,95429.76,10.35,Moderate Yield
+132,2019,Gujarat,Junagadh,Mango,Whole Year,2276.2,18070.82,7.94,Low Yield
+133,2019,Gujarat,Bharuch,Mango,Whole Year,11242.3,82974.27,7.38,Low Yield
+134,2019,Gujarat,Banaskantha,Mango,Whole Year,16897.23,117007.35,6.92,Low Yield
+135,2019,Gujarat,Valsad,Mango,Whole Year,10679.87,115629.37,10.83,Moderate Yield
+136,2019,Jammu & Kashmir,Baramulla,Apple,Whole Year,20404.77,156961.93,7.69,Low Yield
+137,2019,Jammu & Kashmir,Shopian,Apple,Whole Year,19361.86,232936.71,12.03,Moderate Yield
+138,2019,Jammu & Kashmir,Pulwama,Apple,Whole Year,11319.34,151524.2,13.39,High Yield
+139,2019,Jammu & Kashmir,Anantnag,Apple,Whole Year,15746.47,160603.75,10.2,Moderate Yield
+140,2019,Jammu & Kashmir,Srinagar,Apple,Whole Year,15261.76,165499.43,10.84,Moderate Yield
+141,2019,Himachal Pradesh,Shimla,Apple,Whole Year,15425.69,215749.75,13.99,High Yield
+142,2019,Himachal Pradesh,Kullu,Apple,Whole Year,20947.56,173583.08,8.29,Low Yield
+143,2019,Himachal Pradesh,Mandi,Apple,Whole Year,22998.88,141299.06,6.14,Low Yield
+144,2019,Himachal Pradesh,Kinnaur,Apple,Whole Year,14430.81,198639.4,13.76,High Yield
+146,2019,Andhra Pradesh,Anantapur,Banana,Whole Year,7583.76,311358.79,41.06,Moderate Yield
+147,2019,Andhra Pradesh,Chittoor,Banana,Whole Year,6821.27,353320.07,51.8,High Yield
+148,2019,Andhra Pradesh,Cuddapah,Banana,Whole Year,8714.03,343827.07,39.46,Moderate Yield
+149,2019,Andhra Pradesh,Guntur,Banana,Whole Year,9799.2,465054.32,47.46,High Yield
+150,2019,Andhra Pradesh,Krishna,Banana,Whole Year,9625.72,481642.45,50.04,High Yield
+151,2019,Maharashtra,Nagpur,Banana,Whole Year,6342.01,256969.06,40.52,Moderate Yield
+153,2019,Maharashtra,Jalgaon,Banana,Whole Year,7958.2,365588.72,45.94,High Yield
+154,2019,Maharashtra,Ratnagiri,Banana,Whole Year,10555.33,425036.0,40.27,Moderate Yield
+155,2019,Maharashtra,Ahmednagar,Banana,Whole Year,9094.19,394528.32,43.38,Moderate Yield
+156,2019,Gujarat,Anand,Banana,Whole Year,7564.64,406903.61,53.79,High Yield
+157,2019,Gujarat,Junagadh,Banana,Whole Year,9650.83,497095.7,51.51,High Yield
+158,2019,Gujarat,Bharuch,Banana,Whole Year,10610.96,479276.17,45.17,High Yield
+159,2019,Gujarat,Banaskantha,Banana,Whole Year,9363.91,398133.47,42.52,Moderate Yield
+160,2019,Gujarat,Valsad,Banana,Whole Year,8648.33,380170.69,43.96,Moderate Yield
+161,2019,Karnataka,Kolar,Banana,Whole Year,8193.99,407743.24,49.76,High Yield
+162,2019,Karnataka,Chikkaballapur,Banana,Whole Year,6363.56,392880.46,61.74,High Yield
+163,2019,Karnataka,Belagavi,Banana,Whole Year,5987.97,211294.45,35.29,Moderate Yield
+164,2019,Karnataka,Vijayapura,Banana,Whole Year,10316.22,529565.63,51.33,High Yield
+165,2019,Karnataka,Tumakuru,Banana,Whole Year,9248.24,462659.52,50.03,High Yield
+166,2019,Maharashtra,Nagpur,Citrus,Whole Year,9470.91,107099.29,11.31,Moderate Yield
+167,2019,Maharashtra,Nashik,Citrus,Whole Year,9680.04,115855.7,11.97,Moderate Yield
+168,2019,Maharashtra,Jalgaon,Citrus,Whole Year,11815.91,160209.89,13.56,Moderate Yield
+169,2019,Maharashtra,Ratnagiri,Citrus,Whole Year,7539.44,98282.95,13.04,Moderate Yield
+170,2019,Maharashtra,Ahmednagar,Citrus,Whole Year,10480.71,129005.24,12.31,Moderate Yield
+171,2019,Andhra Pradesh,Anantapur,Citrus,Whole Year,7547.23,111178.71,14.73,Moderate Yield
+172,2019,Andhra Pradesh,Chittoor,Citrus,Whole Year,10081.8,125812.5,12.48,Moderate Yield
+173,2019,Andhra Pradesh,Cuddapah,Citrus,Whole Year,8381.28,123172.55,14.7,Moderate Yield
+174,2019,Andhra Pradesh,Guntur,Citrus,Whole Year,6060.8,59260.13,9.78,Low Yield
+175,2019,Andhra Pradesh,Krishna,Citrus,Whole Year,7793.69,104121.04,13.36,Moderate Yield
+176,2019,Gujarat,Anand,Citrus,Whole Year,10238.41,188653.65,18.43,High Yield
+177,2019,Gujarat,Junagadh,Citrus,Whole Year,11536.94,155981.56,13.52,Moderate Yield
+178,2019,Gujarat,Bharuch,Citrus,Whole Year,9454.84,103931.5,10.99,Low Yield
+179,2019,Gujarat,Banaskantha,Citrus,Whole Year,9456.03,124195.73,13.13,Moderate Yield
+180,2019,Gujarat,Valsad,Citrus,Whole Year,10266.46,118252.24,11.52,Moderate Yield
+182,2019,Karnataka,Chikkaballapur,Citrus,Whole Year,9241.69,140521.15,15.21,High Yield
+183,2019,Karnataka,Belagavi,Citrus,Whole Year,11139.09,142539.57,12.8,Moderate Yield
+184,2019,Karnataka,Vijayapura,Citrus,Whole Year,10032.22,140830.07,14.04,Moderate Yield
+185,2019,Karnataka,Tumakuru,Citrus,Whole Year,9731.98,113678.97,11.68,Moderate Yield
+186,2019,Maharashtra,Nagpur,Grapes,Whole Year,6036.77,159913.99,26.49,High Yield
+187,2019,Maharashtra,Nashik,Grapes,Whole Year,8176.72,235459.72,28.8,High Yield
+188,2019,Maharashtra,Jalgaon,Grapes,Whole Year,9229.77,186102.27,20.16,Moderate Yield
+189,2019,Maharashtra,Ratnagiri,Grapes,Whole Year,7308.48,182103.28,24.92,Moderate Yield
+190,2019,Maharashtra,Ahmednagar,Grapes,Whole Year,9284.7,185308.76,19.96,Moderate Yield
+191,2019,Karnataka,Kolar,Grapes,Whole Year,4740.42,99563.22,21.0,Moderate Yield
+192,2019,Karnataka,Chikkaballapur,Grapes,Whole Year,2814.16,60142.05,21.37,Moderate Yield
+193,2019,Karnataka,Belagavi,Grapes,Whole Year,4861.3,120326.75,24.75,Moderate Yield
+194,2019,Karnataka,Vijayapura,Grapes,Whole Year,6512.63,217397.15,33.38,High Yield
+195,2019,Karnataka,Tumakuru,Grapes,Whole Year,7425.64,156795.97,21.12,Moderate Yield
+196,2019,Andhra Pradesh,Anantapur,Grapes,Whole Year,4652.38,123100.09,26.46,High Yield
+197,2019,Andhra Pradesh,Chittoor,Grapes,Whole Year,4019.65,133280.72,33.16,High Yield
+198,2019,Andhra Pradesh,Cuddapah,Grapes,Whole Year,7769.16,168234.34,21.65,Moderate Yield
+199,2019,Andhra Pradesh,Guntur,Grapes,Whole Year,3430.3,105548.14,30.77,High Yield
+200,2019,Andhra Pradesh,Krishna,Grapes,Whole Year,5828.19,175947.7,30.19,High Yield
+201,2019,Uttar Pradesh,Lucknow,Guava,Whole Year,3006.97,38796.49,12.9,Moderate Yield
+202,2019,Uttar Pradesh,Saharanpur,Guava,Whole Year,5006.55,75921.49,15.16,Moderate Yield
+203,2019,Uttar Pradesh,Varanasi,Guava,Whole Year,4437.42,76234.76,17.18,High Yield
+204,2019,Uttar Pradesh,Ayodhya,Guava,Whole Year,3665.47,53155.44,14.5,Moderate Yield
+205,2019,Uttar Pradesh,Bareilly,Guava,Whole Year,5150.37,86528.98,16.8,High Yield
+206,2019,Andhra Pradesh,Anantapur,Guava,Whole Year,5889.52,65160.19,11.06,Low Yield
+207,2019,Andhra Pradesh,Chittoor,Guava,Whole Year,3082.36,60019.31,19.47,High Yield
+208,2019,Andhra Pradesh,Cuddapah,Guava,Whole Year,5415.39,67044.14,12.38,Moderate Yield
+209,2019,Andhra Pradesh,Guntur,Guava,Whole Year,6938.94,106893.41,15.4,Moderate Yield
+210,2019,Andhra Pradesh,Krishna,Guava,Whole Year,6474.12,98641.73,15.24,Moderate Yield
+211,2019,Gujarat,Anand,Guava,Whole Year,7575.93,160183.14,21.14,High Yield
+212,2019,Gujarat,Junagadh,Guava,Whole Year,4688.79,86276.07,18.4,High Yield
+213,2019,Gujarat,Bharuch,Guava,Whole Year,5806.72,114916.21,19.79,High Yield
+214,2019,Gujarat,Banaskantha,Guava,Whole Year,3793.85,66017.47,17.4,High Yield
+215,2019,Gujarat,Valsad,Guava,Whole Year,6323.03,55923.48,8.84,Low Yield
+216,2019,Maharashtra,Nagpur,Guava,Whole Year,3520.93,27683.97,7.86,Low Yield
+217,2019,Maharashtra,Nashik,Guava,Whole Year,4663.24,81659.85,17.51,High Yield
+218,2019,Maharashtra,Jalgaon,Guava,Whole Year,6877.95,104952.92,15.26,Moderate Yield
+219,2019,Maharashtra,Ratnagiri,Guava,Whole Year,7035.77,71551.28,10.17,Low Yield
+220,2019,Maharashtra,Ahmednagar,Guava,Whole Year,2870.77,42503.42,14.81,Moderate Yield
+221,2020,Maharashtra,Nagpur,Mango,Whole Year,13152.2,137023.08,10.42,Moderate Yield
+222,2020,Maharashtra,Nashik,Mango,Whole Year,5797.67,59583.81,10.28,Moderate Yield
+223,2020,Maharashtra,Jalgaon,Mango,Whole Year,8086.59,98447.61,12.17,High Yield
+224,2020,Maharashtra,Ratnagiri,Mango,Whole Year,13099.79,106767.23,8.15,Moderate Yield
+225,2020,Maharashtra,Ahmednagar,Mango,Whole Year,10458.4,82119.0,7.85,Low Yield
+226,2020,Andhra Pradesh,Anantapur,Mango,Whole Year,11811.96,152230.84,12.89,High Yield
+227,2020,Andhra Pradesh,Chittoor,Mango,Whole Year,9042.82,106344.61,11.76,High Yield
+228,2020,Andhra Pradesh,Cuddapah,Mango,Whole Year,10409.23,88663.93,8.52,Moderate Yield
+229,2020,Andhra Pradesh,Guntur,Mango,Whole Year,11678.91,92402.3,7.91,Low Yield
+230,2020,Andhra Pradesh,Krishna,Mango,Whole Year,10339.05,77597.73,7.51,Low Yield
+231,2020,Uttar Pradesh,Lucknow,Mango,Whole Year,17894.18,189466.42,10.59,Moderate Yield
+232,2020,Uttar Pradesh,Saharanpur,Mango,Whole Year,9900.82,109255.05,11.03,High Yield
+233,2020,Uttar Pradesh,Varanasi,Mango,Whole Year,11663.02,116018.78,9.95,Moderate Yield
+234,2020,Uttar Pradesh,Ayodhya,Mango,Whole Year,13842.5,171560.75,12.39,High Yield
+235,2020,Uttar Pradesh,Bareilly,Mango,Whole Year,10408.5,94305.74,9.06,Moderate Yield
+236,2020,Karnataka,Kolar,Mango,Whole Year,11174.84,53026.82,4.75,Low Yield
+237,2020,Karnataka,Chikkaballapur,Mango,Whole Year,7454.43,103744.69,13.92,High Yield
+238,2020,Karnataka,Belagavi,Mango,Whole Year,16934.9,167272.95,9.88,Moderate Yield
+239,2020,Karnataka,Vijayapura,Mango,Whole Year,13729.67,154844.94,11.28,High Yield
+240,2020,Karnataka,Tumakuru,Mango,Whole Year,21236.64,282424.74,13.3,High Yield
+241,2020,Gujarat,Anand,Mango,Whole Year,11616.25,94221.13,8.11,Moderate Yield
+242,2020,Gujarat,Junagadh,Mango,Whole Year,7180.66,79049.44,11.01,High Yield
+243,2020,Gujarat,Bharuch,Mango,Whole Year,9730.95,67575.28,6.94,Low Yield
+244,2020,Gujarat,Banaskantha,Mango,Whole Year,10060.28,78431.25,7.8,Low Yield
+245,2020,Gujarat,Valsad,Mango,Whole Year,17061.42,216749.98,12.7,High Yield
+246,2020,Jammu & Kashmir,Baramulla,Apple,Whole Year,14970.1,246105.94,16.44,High Yield
+247,2020,Jammu & Kashmir,Shopian,Apple,Whole Year,15290.13,143974.12,9.42,Moderate Yield
+248,2020,Jammu & Kashmir,Pulwama,Apple,Whole Year,20711.72,282025.9,13.62,High Yield
+250,2020,Jammu & Kashmir,Srinagar,Apple,Whole Year,11716.43,91992.73,7.85,Low Yield
+251,2020,Himachal Pradesh,Shimla,Apple,Whole Year,18473.17,327496.97,17.73,High Yield
+252,2020,Himachal Pradesh,Kullu,Apple,Whole Year,9755.37,133540.36,13.69,High Yield
+253,2020,Himachal Pradesh,Mandi,Apple,Whole Year,12560.09,132366.06,10.54,Moderate Yield
+254,2020,Himachal Pradesh,Kinnaur,Apple,Whole Year,12778.52,120220.67,9.41,Moderate Yield
+255,2020,Himachal Pradesh,Solan,Apple,Whole Year,15181.96,144337.17,9.51,Moderate Yield
+256,2020,Andhra Pradesh,Anantapur,Banana,Whole Year,8540.91,380908.32,44.6,Moderate Yield
+257,2020,Andhra Pradesh,Chittoor,Banana,Whole Year,7522.1,283880.22,37.74,Moderate Yield
+258,2020,Andhra Pradesh,Cuddapah,Banana,Whole Year,6846.46,349464.75,51.04,High Yield
+259,2020,Andhra Pradesh,Guntur,Banana,Whole Year,9001.83,334684.06,37.18,Moderate Yield
+260,2020,Andhra Pradesh,Krishna,Banana,Whole Year,8198.66,418222.64,51.01,High Yield
+261,2020,Maharashtra,Nagpur,Banana,Whole Year,4661.19,230015.19,49.35,High Yield
+262,2020,Maharashtra,Nashik,Banana,Whole Year,6674.75,330832.58,49.56,High Yield
+263,2020,Maharashtra,Jalgaon,Banana,Whole Year,6473.48,197835.65,30.56,Low Yield
+264,2020,Maharashtra,Ratnagiri,Banana,Whole Year,4744.92,215346.67,45.38,High Yield
+265,2020,Maharashtra,Ahmednagar,Banana,Whole Year,8519.45,321741.01,37.77,Moderate Yield
+266,2020,Gujarat,Anand,Banana,Whole Year,9277.18,294159.33,31.71,Low Yield
+267,2020,Gujarat,Junagadh,Banana,Whole Year,7867.84,277828.15,35.31,Moderate Yield
+268,2020,Gujarat,Bharuch,Banana,Whole Year,6696.33,303874.03,45.38,High Yield
+269,2020,Gujarat,Banaskantha,Banana,Whole Year,6279.17,263245.13,41.92,Moderate Yield
+270,2020,Gujarat,Valsad,Banana,Whole Year,10012.59,404357.1,40.38,Moderate Yield
+271,2020,Karnataka,Kolar,Banana,Whole Year,9671.38,347805.51,35.96,Moderate Yield
+272,2020,Karnataka,Chikkaballapur,Banana,Whole Year,9059.61,512162.85,56.53,High Yield
+273,2020,Karnataka,Belagavi,Banana,Whole Year,3056.71,118064.93,38.62,Moderate Yield
+274,2020,Karnataka,Vijayapura,Banana,Whole Year,9154.14,397066.65,43.38,Moderate Yield
+275,2020,Karnataka,Tumakuru,Banana,Whole Year,8742.29,351161.34,40.17,Moderate Yield
+276,2020,Maharashtra,Nagpur,Citrus,Whole Year,9705.65,131346.25,13.53,Moderate Yield
+277,2020,Maharashtra,Nashik,Citrus,Whole Year,12273.48,181196.61,14.76,Moderate Yield
+278,2020,Maharashtra,Jalgaon,Citrus,Whole Year,10301.81,131496.11,12.76,Moderate Yield
+279,2020,Maharashtra,Ratnagiri,Citrus,Whole Year,8341.94,105962.04,12.7,Moderate Yield
+280,2020,Maharashtra,Ahmednagar,Citrus,Whole Year,10436.82,132934.26,12.74,Moderate Yield
+281,2020,Andhra Pradesh,Anantapur,Citrus,Whole Year,10188.22,206069.0,20.23,High Yield
+282,2020,Andhra Pradesh,Chittoor,Citrus,Whole Year,11568.92,150649.66,13.02,Moderate Yield
+283,2020,Andhra Pradesh,Cuddapah,Citrus,Whole Year,12352.88,157817.6,12.78,Moderate Yield
+284,2020,Andhra Pradesh,Guntur,Citrus,Whole Year,4659.45,51140.92,10.98,Low Yield
+285,2020,Andhra Pradesh,Krishna,Citrus,Whole Year,5056.87,65463.51,12.95,Moderate Yield
+286,2020,Gujarat,Anand,Citrus,Whole Year,9543.74,181610.81,19.03,High Yield
+287,2020,Gujarat,Junagadh,Citrus,Whole Year,10276.45,137115.57,13.34,Moderate Yield
+288,2020,Gujarat,Bharuch,Citrus,Whole Year,11469.84,84493.66,7.37,Low Yield
+289,2020,Gujarat,Banaskantha,Citrus,Whole Year,10059.58,164097.86,16.31,High Yield
+290,2020,Gujarat,Valsad,Citrus,Whole Year,5988.36,104384.67,17.43,High Yield
+291,2020,Karnataka,Kolar,Citrus,Whole Year,10303.93,131417.73,12.75,Moderate Yield
+292,2020,Karnataka,Chikkaballapur,Citrus,Whole Year,11002.86,228992.39,20.81,High Yield
+293,2020,Karnataka,Belagavi,Citrus,Whole Year,9931.93,146442.95,14.74,Moderate Yield
+294,2020,Karnataka,Vijayapura,Citrus,Whole Year,8409.02,96287.21,11.45,Moderate Yield
+295,2020,Karnataka,Tumakuru,Citrus,Whole Year,11472.05,131145.59,11.43,Moderate Yield
+296,2020,Maharashtra,Nagpur,Grapes,Whole Year,6107.35,131990.29,21.61,Moderate Yield
+297,2020,Maharashtra,Nashik,Grapes,Whole Year,6718.47,172451.77,25.67,High Yield
+298,2020,Maharashtra,Jalgaon,Grapes,Whole Year,7556.31,162082.23,21.45,Moderate Yield
+299,2020,Maharashtra,Ratnagiri,Grapes,Whole Year,5595.19,106902.72,19.11,Moderate Yield
+300,2020,Maharashtra,Ahmednagar,Grapes,Whole Year,5333.56,138067.21,25.89,High Yield
+301,2020,Karnataka,Kolar,Grapes,Whole Year,7135.48,138351.06,19.39,Moderate Yield
+302,2020,Karnataka,Chikkaballapur,Grapes,Whole Year,7304.41,224816.51,30.78,High Yield
+303,2020,Karnataka,Belagavi,Grapes,Whole Year,6620.15,221006.95,33.38,High Yield
+304,2020,Karnataka,Vijayapura,Grapes,Whole Year,4839.32,86027.27,17.78,Low Yield
+305,2020,Karnataka,Tumakuru,Grapes,Whole Year,3331.92,104889.58,31.48,High Yield
+306,2020,Andhra Pradesh,Anantapur,Grapes,Whole Year,6981.55,165616.86,23.72,Moderate Yield
+307,2020,Andhra Pradesh,Chittoor,Grapes,Whole Year,6419.95,117950.88,18.37,Moderate Yield
+308,2020,Andhra Pradesh,Cuddapah,Grapes,Whole Year,9668.63,238294.08,24.65,Moderate Yield
+309,2020,Andhra Pradesh,Guntur,Grapes,Whole Year,6164.09,170306.61,27.63,High Yield
+310,2020,Andhra Pradesh,Krishna,Grapes,Whole Year,6721.51,168840.43,25.12,High Yield
+311,2020,Uttar Pradesh,Lucknow,Guava,Whole Year,4011.91,66798.86,16.65,High Yield
+312,2020,Uttar Pradesh,Saharanpur,Guava,Whole Year,7352.53,144910.79,19.71,High Yield
+313,2020,Uttar Pradesh,Varanasi,Guava,Whole Year,6991.48,92362.66,13.21,Moderate Yield
+314,2020,Uttar Pradesh,Ayodhya,Guava,Whole Year,3762.99,54788.18,14.56,Moderate Yield
+315,2020,Uttar Pradesh,Bareilly,Guava,Whole Year,5069.66,95460.03,18.83,High Yield
+317,2020,Andhra Pradesh,Chittoor,Guava,Whole Year,4802.49,64862.03,13.51,Moderate Yield
+318,2020,Andhra Pradesh,Cuddapah,Guava,Whole Year,3734.87,34390.69,9.21,Low Yield
+319,2020,Andhra Pradesh,Guntur,Guava,Whole Year,6028.96,91981.51,15.26,Moderate Yield
+320,2020,Andhra Pradesh,Krishna,Guava,Whole Year,3387.55,35458.25,10.47,Low Yield
+321,2020,Gujarat,Anand,Guava,Whole Year,4580.27,95460.04,20.84,High Yield
+322,2020,Gujarat,Junagadh,Guava,Whole Year,4675.51,45534.79,9.74,Low Yield
+323,2020,Gujarat,Bharuch,Guava,Whole Year,4692.82,65912.85,14.05,Moderate Yield
+324,2020,Gujarat,Banaskantha,Guava,Whole Year,1628.89,24123.81,14.81,Moderate Yield
+325,2020,Gujarat,Valsad,Guava,Whole Year,4711.33,82150.15,17.44,High Yield
+326,2020,Maharashtra,Nagpur,Guava,Whole Year,7311.2,138495.9,18.94,High Yield
+327,2020,Maharashtra,Nashik,Guava,Whole Year,4663.89,51895.85,11.13,Low Yield
+329,2020,Maharashtra,Ratnagiri,Guava,Whole Year,5017.41,74837.49,14.92,Moderate Yield
+330,2020,Maharashtra,Ahmednagar,Guava,Whole Year,5247.61,76062.74,14.49,Moderate Yield
+331,2021,Maharashtra,Nagpur,Mango,Whole Year,10279.01,93876.68,9.13,Moderate Yield
+332,2021,Maharashtra,Nashik,Mango,Whole Year,11901.74,108799.02,9.14,Moderate Yield
+333,2021,Maharashtra,Jalgaon,Mango,Whole Year,9861.46,106169.22,10.77,Moderate Yield
+334,2021,Maharashtra,Ratnagiri,Mango,Whole Year,11235.07,160211.9,14.26,High Yield
+335,2021,Maharashtra,Ahmednagar,Mango,Whole Year,4047.09,53538.01,13.23,High Yield
+336,2021,Andhra Pradesh,Anantapur,Mango,Whole Year,15738.26,83672.84,5.32,Low Yield
+337,2021,Andhra Pradesh,Chittoor,Mango,Whole Year,10971.94,105016.8,9.57,Moderate Yield
+338,2021,Andhra Pradesh,Cuddapah,Mango,Whole Year,7777.46,66539.73,8.56,Moderate Yield
+340,2021,Andhra Pradesh,Krishna,Mango,Whole Year,14807.04,202543.84,13.68,High Yield
+341,2021,Uttar Pradesh,Lucknow,Mango,Whole Year,14165.02,108750.11,7.68,Low Yield
+342,2021,Uttar Pradesh,Saharanpur,Mango,Whole Year,10426.44,122233.71,11.72,High Yield
+343,2021,Uttar Pradesh,Varanasi,Mango,Whole Year,8333.62,102357.65,12.28,High Yield
+344,2021,Uttar Pradesh,Ayodhya,Mango,Whole Year,11279.02,107860.68,9.56,Moderate Yield
+345,2021,Uttar Pradesh,Bareilly,Mango,Whole Year,14132.88,164092.04,11.61,High Yield
+346,2021,Karnataka,Kolar,Mango,Whole Year,10917.1,146270.85,13.4,High Yield
+347,2021,Karnataka,Chikkaballapur,Mango,Whole Year,8756.81,105430.58,12.04,High Yield
+348,2021,Karnataka,Belagavi,Mango,Whole Year,13779.3,134019.32,9.73,Moderate Yield
+349,2021,Karnataka,Vijayapura,Mango,Whole Year,12978.4,95679.57,7.37,Low Yield
+350,2021,Karnataka,Tumakuru,Mango,Whole Year,14772.08,148278.37,10.04,Moderate Yield
+351,2021,Gujarat,Anand,Mango,Whole Year,10431.83,136891.93,13.12,High Yield
+352,2021,Gujarat,Junagadh,Mango,Whole Year,9886.97,68999.65,6.98,Low Yield
+353,2021,Gujarat,Bharuch,Mango,Whole Year,7330.11,88071.45,12.02,High Yield
+354,2021,Gujarat,Banaskantha,Mango,Whole Year,8158.71,121458.6,14.89,High Yield
+355,2021,Gujarat,Valsad,Mango,Whole Year,5754.21,84823.62,14.74,High Yield
+356,2021,Jammu & Kashmir,Baramulla,Apple,Whole Year,15791.32,184914.16,11.71,Moderate Yield
+358,2021,Jammu & Kashmir,Pulwama,Apple,Whole Year,14858.87,227487.9,15.31,High Yield
+359,2021,Jammu & Kashmir,Anantnag,Apple,Whole Year,15428.35,192096.92,12.45,Moderate Yield
+360,2021,Jammu & Kashmir,Srinagar,Apple,Whole Year,13636.45,161307.79,11.83,Moderate Yield
+361,2021,Himachal Pradesh,Shimla,Apple,Whole Year,16154.26,110971.61,6.87,Low Yield
+362,2021,Himachal Pradesh,Kullu,Apple,Whole Year,9944.3,141505.32,14.23,High Yield
+363,2021,Himachal Pradesh,Mandi,Apple,Whole Year,15640.75,179056.09,11.45,Moderate Yield
+364,2021,Himachal Pradesh,Kinnaur,Apple,Whole Year,15069.13,196542.82,13.04,High Yield
+366,2021,Andhra Pradesh,Anantapur,Banana,Whole Year,8391.69,311944.44,37.17,Moderate Yield
+367,2021,Andhra Pradesh,Chittoor,Banana,Whole Year,8816.51,276656.19,31.38,Low Yield
+368,2021,Andhra Pradesh,Cuddapah,Banana,Whole Year,10058.31,490652.21,48.78,High Yield
+369,2021,Andhra Pradesh,Guntur,Banana,Whole Year,8512.06,449960.5,52.86,High Yield
+370,2021,Andhra Pradesh,Krishna,Banana,Whole Year,11330.95,601842.96,53.11,High Yield
+371,2021,Maharashtra,Nagpur,Banana,Whole Year,4318.25,150116.98,34.76,Low Yield
+372,2021,Maharashtra,Nashik,Banana,Whole Year,6750.36,305175.19,45.21,High Yield
+373,2021,Maharashtra,Jalgaon,Banana,Whole Year,9035.32,354130.78,39.19,Moderate Yield
+374,2021,Maharashtra,Ratnagiri,Banana,Whole Year,8373.53,326207.08,38.96,Moderate Yield
+375,2021,Maharashtra,Ahmednagar,Banana,Whole Year,6776.96,228700.11,33.75,Low Yield
+376,2021,Gujarat,Anand,Banana,Whole Year,6153.53,210367.8,34.19,Low Yield
+377,2021,Gujarat,Junagadh,Banana,Whole Year,6048.25,323152.76,53.43,High Yield
+378,2021,Gujarat,Bharuch,Banana,Whole Year,6101.2,403039.52,66.06,High Yield
+379,2021,Gujarat,Banaskantha,Banana,Whole Year,8986.64,417687.25,46.48,High Yield
+380,2021,Gujarat,Valsad,Banana,Whole Year,6283.28,317949.54,50.6,High Yield
+381,2021,Karnataka,Kolar,Banana,Whole Year,6848.72,314877.29,45.98,High Yield
+382,2021,Karnataka,Chikkaballapur,Banana,Whole Year,13120.17,580325.07,44.23,Moderate Yield
+383,2021,Karnataka,Belagavi,Banana,Whole Year,10298.55,405501.17,39.37,Moderate Yield
+384,2021,Karnataka,Vijayapura,Banana,Whole Year,7930.02,469190.78,59.17,High Yield
+385,2021,Karnataka,Tumakuru,Banana,Whole Year,6746.07,401388.39,59.5,High Yield
+386,2021,Maharashtra,Nagpur,Citrus,Whole Year,11180.91,137666.07,12.31,Moderate Yield
+387,2021,Maharashtra,Nashik,Citrus,Whole Year,11001.97,186127.62,16.92,High Yield
+388,2021,Maharashtra,Jalgaon,Citrus,Whole Year,10976.8,101967.07,9.29,Low Yield
+389,2021,Maharashtra,Ratnagiri,Citrus,Whole Year,7773.05,103050.78,13.26,Moderate Yield
+390,2021,Maharashtra,Ahmednagar,Citrus,Whole Year,9323.22,147885.07,15.86,High Yield
+391,2021,Andhra Pradesh,Anantapur,Citrus,Whole Year,9922.04,99160.54,9.99,Low Yield
+392,2021,Andhra Pradesh,Chittoor,Citrus,Whole Year,10402.97,164697.3,15.83,High Yield
+393,2021,Andhra Pradesh,Cuddapah,Citrus,Whole Year,10829.5,186725.94,17.24,High Yield
+394,2021,Andhra Pradesh,Guntur,Citrus,Whole Year,11480.57,176542.93,15.38,High Yield
+395,2021,Andhra Pradesh,Krishna,Citrus,Whole Year,9333.36,84160.0,9.02,Low Yield
+396,2021,Gujarat,Anand,Citrus,Whole Year,10520.34,153839.6,14.62,Moderate Yield
+397,2021,Gujarat,Junagadh,Citrus,Whole Year,10145.0,103172.16,10.17,Low Yield
+398,2021,Gujarat,Bharuch,Citrus,Whole Year,6932.49,118957.77,17.16,High Yield
+399,2021,Gujarat,Banaskantha,Citrus,Whole Year,9406.06,150915.55,16.04,High Yield
+400,2021,Gujarat,Valsad,Citrus,Whole Year,9567.26,134795.69,14.09,Moderate Yield
+401,2021,Karnataka,Kolar,Citrus,Whole Year,11728.42,146040.71,12.45,Moderate Yield
+402,2021,Karnataka,Chikkaballapur,Citrus,Whole Year,9728.29,122704.62,12.61,Moderate Yield
+403,2021,Karnataka,Belagavi,Citrus,Whole Year,8468.07,110698.71,13.07,Moderate Yield
+404,2021,Karnataka,Vijayapura,Citrus,Whole Year,10027.57,125983.92,12.56,Moderate Yield
+405,2021,Karnataka,Tumakuru,Citrus,Whole Year,12482.42,141253.29,11.32,Moderate Yield
+406,2021,Maharashtra,Nagpur,Grapes,Whole Year,5719.69,124696.93,21.8,Moderate Yield
+407,2021,Maharashtra,Nashik,Grapes,Whole Year,8170.47,204121.0,24.98,Moderate Yield
+408,2021,Maharashtra,Jalgaon,Grapes,Whole Year,7547.77,125083.14,16.57,Low Yield
+409,2021,Maharashtra,Ratnagiri,Grapes,Whole Year,6400.58,182084.69,28.45,High Yield
+410,2021,Maharashtra,Ahmednagar,Grapes,Whole Year,6123.43,179584.29,29.33,High Yield
+412,2021,Karnataka,Chikkaballapur,Grapes,Whole Year,9448.35,209619.27,22.19,Moderate Yield
+414,2021,Karnataka,Vijayapura,Grapes,Whole Year,8369.36,178984.62,21.39,Moderate Yield
+415,2021,Karnataka,Tumakuru,Grapes,Whole Year,5369.72,121307.76,22.59,Moderate Yield
+416,2021,Andhra Pradesh,Anantapur,Grapes,Whole Year,3983.32,77303.26,19.41,Moderate Yield
+417,2021,Andhra Pradesh,Chittoor,Grapes,Whole Year,4493.79,90599.35,20.16,Moderate Yield
+418,2021,Andhra Pradesh,Cuddapah,Grapes,Whole Year,5947.97,149716.79,25.17,High Yield
+419,2021,Andhra Pradesh,Guntur,Grapes,Whole Year,8325.75,158257.77,19.01,Moderate Yield
+420,2021,Andhra Pradesh,Krishna,Grapes,Whole Year,7476.48,171436.1,22.93,Moderate Yield
+421,2021,Uttar Pradesh,Lucknow,Guava,Whole Year,4938.17,85735.86,17.36,High Yield
+422,2021,Uttar Pradesh,Saharanpur,Guava,Whole Year,3596.6,58762.81,16.34,High Yield
+423,2021,Uttar Pradesh,Varanasi,Guava,Whole Year,5208.07,87097.57,16.72,High Yield
+424,2021,Uttar Pradesh,Ayodhya,Guava,Whole Year,5361.46,126495.88,23.59,High Yield
+425,2021,Uttar Pradesh,Bareilly,Guava,Whole Year,4202.83,55231.54,13.14,Moderate Yield
+426,2021,Andhra Pradesh,Anantapur,Guava,Whole Year,4221.07,55109.57,13.06,Moderate Yield
+427,2021,Andhra Pradesh,Chittoor,Guava,Whole Year,4203.27,80541.2,19.16,High Yield
+428,2021,Andhra Pradesh,Cuddapah,Guava,Whole Year,6775.63,88099.37,13.0,Moderate Yield
+429,2021,Andhra Pradesh,Guntur,Guava,Whole Year,3959.56,65926.49,16.65,High Yield
+430,2021,Andhra Pradesh,Krishna,Guava,Whole Year,4309.72,74192.96,17.22,High Yield
+431,2021,Gujarat,Anand,Guava,Whole Year,5253.65,50933.59,9.69,Low Yield
+432,2021,Gujarat,Junagadh,Guava,Whole Year,6934.38,147602.24,21.29,High Yield
+433,2021,Gujarat,Bharuch,Guava,Whole Year,4234.01,57764.79,13.64,Moderate Yield
+434,2021,Gujarat,Banaskantha,Guava,Whole Year,5357.33,86631.23,16.17,High Yield
+435,2021,Gujarat,Valsad,Guava,Whole Year,5823.18,128317.94,22.04,High Yield
+436,2021,Maharashtra,Nagpur,Guava,Whole Year,4778.82,58330.08,12.21,Moderate Yield
+437,2021,Maharashtra,Nashik,Guava,Whole Year,3275.85,40757.29,12.44,Moderate Yield
+438,2021,Maharashtra,Jalgaon,Guava,Whole Year,4958.59,105523.52,21.28,High Yield
+439,2021,Maharashtra,Ratnagiri,Guava,Whole Year,4352.99,68704.36,15.78,Moderate Yield
+440,2021,Maharashtra,Ahmednagar,Guava,Whole Year,4979.47,95403.54,19.16,High Yield
+441,2022,Maharashtra,Nagpur,Mango,Whole Year,19580.8,179611.31,9.17,Moderate Yield
+442,2022,Maharashtra,Nashik,Mango,Whole Year,10531.68,138074.56,13.11,High Yield
+443,2022,Maharashtra,Jalgaon,Mango,Whole Year,14045.67,212325.14,15.12,High Yield
+444,2022,Maharashtra,Ratnagiri,Mango,Whole Year,13751.78,132041.43,9.6,Moderate Yield
+445,2022,Maharashtra,Ahmednagar,Mango,Whole Year,13771.96,182778.13,13.27,High Yield
+446,2022,Andhra Pradesh,Anantapur,Mango,Whole Year,14461.45,170185.02,11.77,High Yield
+447,2022,Andhra Pradesh,Chittoor,Mango,Whole Year,15200.02,204033.5,13.42,High Yield
+448,2022,Andhra Pradesh,Cuddapah,Mango,Whole Year,16146.48,195723.99,12.12,High Yield
+449,2022,Andhra Pradesh,Guntur,Mango,Whole Year,11498.65,124953.35,10.87,Moderate Yield
+450,2022,Andhra Pradesh,Krishna,Mango,Whole Year,15619.53,132104.69,8.46,Moderate Yield
+451,2022,Uttar Pradesh,Lucknow,Mango,Whole Year,13106.02,124725.44,9.52,Moderate Yield
+452,2022,Uttar Pradesh,Saharanpur,Mango,Whole Year,12086.23,165534.57,13.7,High Yield
+453,2022,Uttar Pradesh,Varanasi,Mango,Whole Year,12573.3,133479.3,10.62,Moderate Yield
+454,2022,Uttar Pradesh,Ayodhya,Mango,Whole Year,7920.43,97941.14,12.37,High Yield
+455,2022,Uttar Pradesh,Bareilly,Mango,Whole Year,13936.45,221702.95,15.91,High Yield
+456,2022,Karnataka,Kolar,Mango,Whole Year,11076.67,122373.67,11.05,High Yield
+457,2022,Karnataka,Chikkaballapur,Mango,Whole Year,12748.15,184129.6,14.44,High Yield
+458,2022,Karnataka,Belagavi,Mango,Whole Year,11714.11,131169.38,11.2,High Yield
+459,2022,Karnataka,Vijayapura,Mango,Whole Year,13823.69,151597.81,10.97,Moderate Yield
+460,2022,Karnataka,Tumakuru,Mango,Whole Year,10660.7,117110.19,10.99,Moderate Yield
+461,2022,Gujarat,Anand,Mango,Whole Year,15220.9,120758.23,7.93,Low Yield
+462,2022,Gujarat,Junagadh,Mango,Whole Year,12398.91,108486.72,8.75,Moderate Yield
+463,2022,Gujarat,Bharuch,Mango,Whole Year,15585.14,104296.27,6.69,Low Yield
+464,2022,Gujarat,Banaskantha,Mango,Whole Year,10323.23,118129.03,11.44,High Yield
+465,2022,Gujarat,Valsad,Mango,Whole Year,16696.57,172569.48,10.34,Moderate Yield
+466,2022,Jammu & Kashmir,Baramulla,Apple,Whole Year,12918.0,227918.36,17.64,High Yield
+467,2022,Jammu & Kashmir,Shopian,Apple,Whole Year,9569.95,51712.01,5.4,Low Yield
+468,2022,Jammu & Kashmir,Pulwama,Apple,Whole Year,16650.05,174722.92,10.49,Moderate Yield
+469,2022,Jammu & Kashmir,Anantnag,Apple,Whole Year,11170.38,157782.39,14.13,High Yield
+470,2022,Jammu & Kashmir,Srinagar,Apple,Whole Year,15914.25,164040.33,10.31,Moderate Yield
+471,2022,Himachal Pradesh,Shimla,Apple,Whole Year,10198.86,149080.53,14.62,High Yield
+472,2022,Himachal Pradesh,Kullu,Apple,Whole Year,17438.25,204070.64,11.7,Moderate Yield
+473,2022,Himachal Pradesh,Mandi,Apple,Whole Year,21924.89,192714.21,8.79,Low Yield
+474,2022,Himachal Pradesh,Kinnaur,Apple,Whole Year,9279.28,92090.13,9.92,Moderate Yield
+475,2022,Himachal Pradesh,Solan,Apple,Whole Year,14829.05,188774.08,12.73,Moderate Yield
+476,2022,Andhra Pradesh,Anantapur,Banana,Whole Year,7517.53,359461.55,47.82,High Yield
+477,2022,Andhra Pradesh,Chittoor,Banana,Whole Year,5496.92,310851.47,56.55,High Yield
+478,2022,Andhra Pradesh,Cuddapah,Banana,Whole Year,7835.7,422644.86,53.94,High Yield
+479,2022,Andhra Pradesh,Guntur,Banana,Whole Year,8685.45,422582.11,48.65,High Yield
+480,2022,Andhra Pradesh,Krishna,Banana,Whole Year,9139.53,444013.62,48.58,High Yield
+481,2022,Maharashtra,Nagpur,Banana,Whole Year,9285.45,516579.48,55.63,High Yield
+482,2022,Maharashtra,Nashik,Banana,Whole Year,8393.04,425292.38,50.67,High Yield
+483,2022,Maharashtra,Jalgaon,Banana,Whole Year,7820.53,442023.69,56.52,High Yield
+484,2022,Maharashtra,Ratnagiri,Banana,Whole Year,6647.22,394894.88,59.41,High Yield
+485,2022,Maharashtra,Ahmednagar,Banana,Whole Year,7919.68,265735.35,33.55,Low Yield
+486,2022,Gujarat,Anand,Banana,Whole Year,8256.21,326546.21,39.55,Moderate Yield
+487,2022,Gujarat,Junagadh,Banana,Whole Year,9681.29,385112.11,39.78,Moderate Yield
+488,2022,Gujarat,Bharuch,Banana,Whole Year,7107.63,212402.1,29.88,Low Yield
+489,2022,Gujarat,Banaskantha,Banana,Whole Year,7095.39,181705.6,25.61,Low Yield
+490,2022,Gujarat,Valsad,Banana,Whole Year,4832.19,246844.29,51.08,High Yield
+491,2022,Karnataka,Kolar,Banana,Whole Year,9571.6,463300.48,48.4,High Yield
+492,2022,Karnataka,Chikkaballapur,Banana,Whole Year,6066.05,270656.89,44.62,Moderate Yield
+493,2022,Karnataka,Belagavi,Banana,Whole Year,7992.79,285607.02,35.73,Moderate Yield
+494,2022,Karnataka,Vijayapura,Banana,Whole Year,11006.8,572561.61,52.02,High Yield
+495,2022,Karnataka,Tumakuru,Banana,Whole Year,7558.07,341738.79,45.22,High Yield
+496,2022,Maharashtra,Nagpur,Citrus,Whole Year,9994.91,78707.87,7.87,Low Yield
+497,2022,Maharashtra,Nashik,Citrus,Whole Year,8912.95,106545.83,11.95,Moderate Yield
+498,2022,Maharashtra,Jalgaon,Citrus,Whole Year,7121.15,93690.83,13.16,Moderate Yield
+499,2022,Maharashtra,Ratnagiri,Citrus,Whole Year,13769.51,219245.42,15.92,High Yield
+500,2022,Maharashtra,Ahmednagar,Citrus,Whole Year,8143.45,127996.7,15.72,High Yield
+501,2022,Andhra Pradesh,Anantapur,Citrus,Whole Year,12823.47,215099.62,16.77,High Yield
+502,2022,Andhra Pradesh,Chittoor,Citrus,Whole Year,9641.62,116270.12,12.06,Moderate Yield
+503,2022,Andhra Pradesh,Cuddapah,Citrus,Whole Year,11158.28,169387.78,15.18,High Yield
+504,2022,Andhra Pradesh,Guntur,Citrus,Whole Year,11626.08,184918.79,15.91,High Yield
+505,2022,Andhra Pradesh,Krishna,Citrus,Whole Year,11992.69,148640.93,12.39,Moderate Yield
+506,2022,Gujarat,Anand,Citrus,Whole Year,12628.81,184289.68,14.59,Moderate Yield
+507,2022,Gujarat,Junagadh,Citrus,Whole Year,14428.74,172170.02,11.93,Moderate Yield
+508,2022,Gujarat,Bharuch,Citrus,Whole Year,13622.91,198809.1,14.59,Moderate Yield
+509,2022,Gujarat,Banaskantha,Citrus,Whole Year,7952.88,99795.46,12.55,Moderate Yield
+510,2022,Gujarat,Valsad,Citrus,Whole Year,8739.18,133469.11,15.27,High Yield
+511,2022,Karnataka,Kolar,Citrus,Whole Year,10741.73,131896.63,12.28,Moderate Yield
+512,2022,Karnataka,Chikkaballapur,Citrus,Whole Year,9442.16,192873.22,20.43,High Yield
+513,2022,Karnataka,Belagavi,Citrus,Whole Year,13602.92,208246.71,15.31,High Yield
+515,2022,Karnataka,Tumakuru,Citrus,Whole Year,10957.11,119778.99,10.93,Low Yield
+516,2022,Maharashtra,Nagpur,Grapes,Whole Year,5613.94,87897.91,15.66,Low Yield
+517,2022,Maharashtra,Nashik,Grapes,Whole Year,6598.83,179725.6,27.24,High Yield
+518,2022,Maharashtra,Jalgaon,Grapes,Whole Year,5275.22,168120.91,31.87,High Yield
+519,2022,Maharashtra,Ratnagiri,Grapes,Whole Year,4161.35,69403.52,16.68,Low Yield
+520,2022,Maharashtra,Ahmednagar,Grapes,Whole Year,6336.68,185255.95,29.24,High Yield
+521,2022,Karnataka,Kolar,Grapes,Whole Year,8525.89,185059.38,21.71,Moderate Yield
+522,2022,Karnataka,Chikkaballapur,Grapes,Whole Year,7618.02,181365.69,23.81,Moderate Yield
+523,2022,Karnataka,Belagavi,Grapes,Whole Year,5741.06,163151.16,28.42,High Yield
+524,2022,Karnataka,Vijayapura,Grapes,Whole Year,6978.48,112479.41,16.12,Low Yield
+525,2022,Karnataka,Tumakuru,Grapes,Whole Year,8214.81,253841.38,30.9,High Yield
+526,2022,Andhra Pradesh,Anantapur,Grapes,Whole Year,5061.66,131496.95,25.98,High Yield
+527,2022,Andhra Pradesh,Chittoor,Grapes,Whole Year,6741.05,170571.27,25.3,High Yield
+528,2022,Andhra Pradesh,Cuddapah,Grapes,Whole Year,5174.54,106812.25,20.64,Moderate Yield
+529,2022,Andhra Pradesh,Guntur,Grapes,Whole Year,5961.67,178037.2,29.86,High Yield
+530,2022,Andhra Pradesh,Krishna,Grapes,Whole Year,6815.4,150940.18,22.15,Moderate Yield
+531,2022,Uttar Pradesh,Lucknow,Guava,Whole Year,5964.62,30002.64,5.03,Low Yield
+532,2022,Uttar Pradesh,Saharanpur,Guava,Whole Year,6435.96,57350.85,8.91,Low Yield
+533,2022,Uttar Pradesh,Varanasi,Guava,Whole Year,4546.95,50385.46,11.08,Low Yield
+534,2022,Uttar Pradesh,Ayodhya,Guava,Whole Year,3381.65,64464.03,19.06,High Yield
+535,2022,Uttar Pradesh,Bareilly,Guava,Whole Year,4415.37,71585.35,16.21,High Yield
+536,2022,Andhra Pradesh,Anantapur,Guava,Whole Year,4941.35,82370.54,16.67,High Yield
+537,2022,Andhra Pradesh,Chittoor,Guava,Whole Year,5096.03,53556.87,10.51,Low Yield
+538,2022,Andhra Pradesh,Cuddapah,Guava,Whole Year,6245.33,82887.1,13.27,Moderate Yield
+539,2022,Andhra Pradesh,Guntur,Guava,Whole Year,3054.27,41237.52,13.5,Moderate Yield
+540,2022,Andhra Pradesh,Krishna,Guava,Whole Year,6875.95,123600.54,17.98,High Yield
+541,2022,Gujarat,Anand,Guava,Whole Year,4564.18,62883.44,13.78,Moderate Yield
+542,2022,Gujarat,Junagadh,Guava,Whole Year,4597.96,102390.21,22.27,High Yield
+543,2022,Gujarat,Bharuch,Guava,Whole Year,5477.42,90405.62,16.51,High Yield
+544,2022,Gujarat,Banaskantha,Guava,Whole Year,6287.85,99572.9,15.84,Moderate Yield
+545,2022,Gujarat,Valsad,Guava,Whole Year,4676.2,66929.4,14.31,Moderate Yield
+546,2022,Maharashtra,Nagpur,Guava,Whole Year,4910.5,73017.77,14.87,Moderate Yield
+547,2022,Maharashtra,Nashik,Guava,Whole Year,5909.54,89717.52,15.18,Moderate Yield
+548,2022,Maharashtra,Jalgaon,Guava,Whole Year,5915.8,87065.74,14.72,Moderate Yield
+549,2022,Maharashtra,Ratnagiri,Guava,Whole Year,5098.29,40818.43,8.01,Low Yield
+550,2022,Maharashtra,Ahmednagar,Guava,Whole Year,6145.41,99633.75,16.21,High Yield
+551,2023,Maharashtra,Nagpur,Mango,Whole Year,14994.03,48870.96,3.26,Low Yield
+552,2023,Maharashtra,Nashik,Mango,Whole Year,18265.12,185409.71,10.15,Moderate Yield
+553,2023,Maharashtra,Jalgaon,Mango,Whole Year,15324.55,121067.55,7.9,Low Yield
+554,2023,Maharashtra,Ratnagiri,Mango,Whole Year,13838.32,108858.61,7.87,Low Yield
+555,2023,Maharashtra,Ahmednagar,Mango,Whole Year,10128.69,154817.82,15.29,High Yield
+556,2023,Andhra Pradesh,Anantapur,Mango,Whole Year,11427.95,126205.51,11.04,High Yield
+557,2023,Andhra Pradesh,Chittoor,Mango,Whole Year,14610.2,171512.13,11.74,High Yield
+558,2023,Andhra Pradesh,Cuddapah,Mango,Whole Year,12451.26,142098.79,11.41,High Yield
+559,2023,Andhra Pradesh,Guntur,Mango,Whole Year,19210.25,198940.45,10.36,Moderate Yield
+560,2023,Andhra Pradesh,Krishna,Mango,Whole Year,12603.3,165438.93,13.13,High Yield
+561,2023,Uttar Pradesh,Lucknow,Mango,Whole Year,15316.58,206277.2,13.47,High Yield
+562,2023,Uttar Pradesh,Saharanpur,Mango,Whole Year,13916.19,106354.31,7.64,Low Yield
+563,2023,Uttar Pradesh,Varanasi,Mango,Whole Year,16900.29,129019.12,7.63,Low Yield
+564,2023,Uttar Pradesh,Ayodhya,Mango,Whole Year,12907.91,111192.74,8.61,Moderate Yield
+565,2023,Uttar Pradesh,Bareilly,Mango,Whole Year,11807.58,133684.31,11.32,High Yield
+566,2023,Karnataka,Kolar,Mango,Whole Year,12964.07,149797.26,11.55,High Yield
+567,2023,Karnataka,Chikkaballapur,Mango,Whole Year,16841.13,195926.94,11.63,High Yield
+568,2023,Karnataka,Belagavi,Mango,Whole Year,11267.53,145466.27,12.91,High Yield
+569,2023,Karnataka,Vijayapura,Mango,Whole Year,15568.41,115688.55,7.43,Low Yield
+570,2023,Karnataka,Tumakuru,Mango,Whole Year,13792.2,168994.89,12.25,High Yield
+571,2023,Gujarat,Anand,Mango,Whole Year,11107.31,154827.76,13.94,High Yield
+572,2023,Gujarat,Junagadh,Mango,Whole Year,11549.83,124899.18,10.81,Moderate Yield
+573,2023,Gujarat,Bharuch,Mango,Whole Year,11480.78,120995.34,10.54,Moderate Yield
+574,2023,Gujarat,Banaskantha,Mango,Whole Year,8711.17,60105.96,6.9,Low Yield
+575,2023,Gujarat,Valsad,Mango,Whole Year,16783.52,140689.48,8.38,Moderate Yield
+576,2023,Jammu & Kashmir,Baramulla,Apple,Whole Year,11282.28,62501.91,5.54,Low Yield
+577,2023,Jammu & Kashmir,Shopian,Apple,Whole Year,12603.89,101218.45,8.03,Low Yield
+578,2023,Jammu & Kashmir,Pulwama,Apple,Whole Year,21157.56,317986.52,15.03,High Yield
+579,2023,Jammu & Kashmir,Anantnag,Apple,Whole Year,12419.44,232955.25,18.76,High Yield
+580,2023,Jammu & Kashmir,Srinagar,Apple,Whole Year,18681.62,205974.31,11.03,Moderate Yield
+581,2023,Himachal Pradesh,Shimla,Apple,Whole Year,5627.23,106201.74,18.87,High Yield
+582,2023,Himachal Pradesh,Kullu,Apple,Whole Year,9789.1,69148.28,7.06,Low Yield
+583,2023,Himachal Pradesh,Mandi,Apple,Whole Year,18834.64,363871.25,19.32,High Yield
+584,2023,Himachal Pradesh,Kinnaur,Apple,Whole Year,20191.02,276449.94,13.69,High Yield
+585,2023,Himachal Pradesh,Solan,Apple,Whole Year,17230.33,250877.86,14.56,High Yield
+586,2023,Andhra Pradesh,Anantapur,Banana,Whole Year,9517.86,449714.42,47.25,High Yield
+587,2023,Andhra Pradesh,Chittoor,Banana,Whole Year,8208.4,365267.68,44.5,Moderate Yield
+588,2023,Andhra Pradesh,Cuddapah,Banana,Whole Year,6492.07,277565.85,42.75,Moderate Yield
+589,2023,Andhra Pradesh,Guntur,Banana,Whole Year,4614.09,204004.07,44.21,Moderate Yield
+590,2023,Andhra Pradesh,Krishna,Banana,Whole Year,6022.82,217853.14,36.17,Moderate Yield
+591,2023,Maharashtra,Nagpur,Banana,Whole Year,8359.79,469285.32,56.14,High Yield
+592,2023,Maharashtra,Nashik,Banana,Whole Year,9836.63,319060.88,32.44,Low Yield
+593,2023,Maharashtra,Jalgaon,Banana,Whole Year,6020.74,316246.41,52.53,High Yield
+594,2023,Maharashtra,Ratnagiri,Banana,Whole Year,6035.03,260731.01,43.2,Moderate Yield
+595,2023,Maharashtra,Ahmednagar,Banana,Whole Year,9100.1,339008.25,37.25,Moderate Yield
+596,2023,Gujarat,Anand,Banana,Whole Year,8210.75,281856.95,34.33,Low Yield
+597,2023,Gujarat,Junagadh,Banana,Whole Year,6797.26,323265.83,47.56,High Yield
+598,2023,Gujarat,Bharuch,Banana,Whole Year,4814.01,233594.05,48.52,High Yield
+599,2023,Gujarat,Banaskantha,Banana,Whole Year,7960.72,393418.14,49.42,High Yield
+600,2023,Gujarat,Valsad,Banana,Whole Year,8447.83,472344.56,55.91,High Yield
+601,2023,Karnataka,Kolar,Banana,Whole Year,8250.45,342927.94,41.56,Moderate Yield
+602,2023,Karnataka,Chikkaballapur,Banana,Whole Year,8244.6,406841.2,49.35,High Yield
+603,2023,Karnataka,Belagavi,Banana,Whole Year,8097.72,367027.0,45.32,High Yield
+604,2023,Karnataka,Vijayapura,Banana,Whole Year,6596.02,261840.84,39.7,Moderate Yield
+605,2023,Karnataka,Tumakuru,Banana,Whole Year,5194.79,306475.02,59.0,High Yield
+606,2023,Maharashtra,Nagpur,Citrus,Whole Year,6545.82,78034.58,11.92,Moderate Yield
+607,2023,Maharashtra,Nashik,Citrus,Whole Year,7793.78,130037.45,16.68,High Yield
+608,2023,Maharashtra,Jalgaon,Citrus,Whole Year,8799.49,156131.34,17.74,High Yield
+609,2023,Maharashtra,Ratnagiri,Citrus,Whole Year,7900.46,117218.99,14.84,Moderate Yield
+610,2023,Maharashtra,Ahmednagar,Citrus,Whole Year,7516.05,153593.84,20.44,High Yield
+611,2023,Andhra Pradesh,Anantapur,Citrus,Whole Year,6679.45,99720.6,14.93,Moderate Yield
+612,2023,Andhra Pradesh,Chittoor,Citrus,Whole Year,11005.22,167734.93,15.24,High Yield
+613,2023,Andhra Pradesh,Cuddapah,Citrus,Whole Year,9059.94,123310.66,13.61,Moderate Yield
+614,2023,Andhra Pradesh,Guntur,Citrus,Whole Year,9604.05,130221.26,13.56,Moderate Yield
+615,2023,Andhra Pradesh,Krishna,Citrus,Whole Year,11789.21,243229.9,20.63,High Yield
+616,2023,Gujarat,Anand,Citrus,Whole Year,8175.96,80865.08,9.89,Low Yield
+617,2023,Gujarat,Junagadh,Citrus,Whole Year,9290.33,201963.67,21.74,High Yield
+618,2023,Gujarat,Bharuch,Citrus,Whole Year,7591.27,143606.71,18.92,High Yield
+619,2023,Gujarat,Banaskantha,Citrus,Whole Year,13484.54,166388.91,12.34,Moderate Yield
+620,2023,Gujarat,Valsad,Citrus,Whole Year,10851.33,204929.43,18.89,High Yield
+621,2023,Karnataka,Kolar,Citrus,Whole Year,8599.57,115141.87,13.39,Moderate Yield
+622,2023,Karnataka,Chikkaballapur,Citrus,Whole Year,8118.51,88944.2,10.96,Low Yield
+623,2023,Karnataka,Belagavi,Citrus,Whole Year,7957.97,82191.34,10.33,Low Yield
+624,2023,Karnataka,Vijayapura,Citrus,Whole Year,9580.95,112002.07,11.69,Moderate Yield
+625,2023,Karnataka,Tumakuru,Citrus,Whole Year,10055.24,93838.65,9.33,Low Yield
+626,2023,Maharashtra,Nagpur,Grapes,Whole Year,6496.32,182986.03,28.17,High Yield
+627,2023,Maharashtra,Nashik,Grapes,Whole Year,3009.4,77854.03,25.87,High Yield
+628,2023,Maharashtra,Jalgaon,Grapes,Whole Year,7841.5,140769.0,17.95,Low Yield
+629,2023,Maharashtra,Ratnagiri,Grapes,Whole Year,8508.86,222039.51,26.1,High Yield
+630,2023,Maharashtra,Ahmednagar,Grapes,Whole Year,4942.48,117241.33,23.72,Moderate Yield
+631,2023,Karnataka,Kolar,Grapes,Whole Year,6837.49,166698.19,24.38,Moderate Yield
+632,2023,Karnataka,Chikkaballapur,Grapes,Whole Year,6808.13,132054.79,19.4,Moderate Yield
+633,2023,Karnataka,Belagavi,Grapes,Whole Year,6254.04,105889.82,16.93,Low Yield
+634,2023,Karnataka,Vijayapura,Grapes,Whole Year,5833.16,113632.65,19.48,Moderate Yield
+635,2023,Karnataka,Tumakuru,Grapes,Whole Year,4896.71,147784.99,30.18,High Yield
+636,2023,Andhra Pradesh,Anantapur,Grapes,Whole Year,7636.97,206547.13,27.05,High Yield
+637,2023,Andhra Pradesh,Chittoor,Grapes,Whole Year,4361.53,97776.6,22.42,Moderate Yield
+638,2023,Andhra Pradesh,Cuddapah,Grapes,Whole Year,7819.65,193212.48,24.71,Moderate Yield
+639,2023,Andhra Pradesh,Guntur,Grapes,Whole Year,9478.99,246137.04,25.97,High Yield
+640,2023,Andhra Pradesh,Krishna,Grapes,Whole Year,6288.07,141194.95,22.45,Moderate Yield
+641,2023,Uttar Pradesh,Lucknow,Guava,Whole Year,5166.93,74746.65,14.47,Moderate Yield
+642,2023,Uttar Pradesh,Saharanpur,Guava,Whole Year,5885.14,107983.24,18.35,High Yield
+644,2023,Uttar Pradesh,Ayodhya,Guava,Whole Year,2704.74,45380.05,16.78,High Yield
+645,2023,Uttar Pradesh,Bareilly,Guava,Whole Year,3620.79,27028.77,7.46,Low Yield
+646,2023,Andhra Pradesh,Anantapur,Guava,Whole Year,5485.72,130151.44,23.73,High Yield
+647,2023,Andhra Pradesh,Chittoor,Guava,Whole Year,4992.41,89537.46,17.93,High Yield
+648,2023,Andhra Pradesh,Cuddapah,Guava,Whole Year,5102.29,74768.38,14.65,Moderate Yield
+649,2023,Andhra Pradesh,Guntur,Guava,Whole Year,6148.85,85985.76,13.98,Moderate Yield
+650,2023,Andhra Pradesh,Krishna,Guava,Whole Year,5334.24,86019.65,16.13,High Yield
+651,2023,Gujarat,Anand,Guava,Whole Year,4164.89,76934.47,18.47,High Yield
+652,2023,Gujarat,Junagadh,Guava,Whole Year,4781.3,59072.44,12.35,Moderate Yield
+653,2023,Gujarat,Bharuch,Guava,Whole Year,5670.64,67227.49,11.86,Low Yield
+654,2023,Gujarat,Banaskantha,Guava,Whole Year,5035.23,75367.74,14.97,Moderate Yield
+655,2023,Gujarat,Valsad,Guava,Whole Year,6357.37,105922.96,16.66,High Yield
+656,2023,Maharashtra,Nagpur,Guava,Whole Year,4968.72,88752.18,17.86,High Yield
+657,2023,Maharashtra,Nashik,Guava,Whole Year,6737.76,114220.77,16.95,High Yield
+658,2023,Maharashtra,Jalgaon,Guava,Whole Year,5012.94,52177.55,10.41,Low Yield
+659,2023,Maharashtra,Ratnagiri,Guava,Whole Year,3668.61,51110.02,13.93,Moderate Yield
+660,2023,Maharashtra,Ahmednagar,Guava,Whole Year,4238.11,60798.23,14.35,Moderate Yield

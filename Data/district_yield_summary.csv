@@ -1,0 +1,111 @@
+state,district,crop,avg_area_ha,avg_production_tonnes,avg_yield_t_ha
+Himachal Pradesh,Shimla,Apple,13180.39,176764.0,13.92
+Jammu & Kashmir,Pulwama,Apple,17260.63,238808.62,13.77
+Jammu & Kashmir,Anantnag,Apple,13323.51,174935.65,13.32
+Himachal Pradesh,Kinnaur,Apple,14413.12,184174.75,12.47
+Himachal Pradesh,Mandi,Apple,18334.37,216549.73,12.05
+Himachal Pradesh,Solan,Apple,15899.37,187151.95,11.72
+Jammu & Kashmir,Baramulla,Apple,15263.63,175708.89,11.64
+Jammu & Kashmir,Srinagar,Apple,15242.13,171876.1,11.13
+Himachal Pradesh,Kullu,Apple,13120.97,135520.26,10.56
+Jammu & Kashmir,Shopian,Apple,13857.47,140449.41,9.74
+Karnataka,Tumakuru,Banana,7667.43,373588.54,49.72
+Karnataka,Chikkaballapur,Banana,8361.43,407512.6,49.18
+Karnataka,Vijayapura,Banana,9462.6,462737.29,48.67
+Andhra Pradesh,Cuddapah,Banana,7117.85,337754.78,47.93
+Gujarat,Valsad,Banana,7705.74,361182.29,47.51
+Maharashtra,Nagpur,Banana,6754.56,330799.3,47.38
+Andhra Pradesh,Chittoor,Banana,7465.59,340998.62,46.58
+Andhra Pradesh,Anantapur,Banana,8379.09,385540.14,45.87
+Maharashtra,Ratnagiri,Banana,7697.81,348409.46,45.81
+Andhra Pradesh,Guntur,Banana,8131.12,370761.04,45.5
+Gujarat,Junagadh,Banana,7773.56,347663.3,45.0
+Gujarat,Bharuch,Banana,7090.99,312068.79,44.72
+Andhra Pradesh,Krishna,Banana,8750.2,400285.12,44.67
+Maharashtra,Jalgaon,Banana,7281.88,322906.49,44.29
+Karnataka,Kolar,Banana,7950.9,348645.96,43.88
+Maharashtra,Nashik,Banana,8522.11,365589.42,43.75
+Gujarat,Banaskantha,Banana,8046.35,343130.8,42.17
+Gujarat,Anand,Banana,7942.75,325344.83,41.05
+Karnataka,Belagavi,Banana,7185.2,292965.92,40.43
+Maharashtra,Ahmednagar,Banana,8058.48,315088.87,39.14
+Karnataka,Chikkaballapur,Citrus,8869.29,142789.03,15.76
+Andhra Pradesh,Cuddapah,Citrus,10445.95,164085.78,15.68
+Maharashtra,Nashik,Citrus,9884.21,154337.57,15.61
+Maharashtra,Ahmednagar,Citrus,9685.74,148327.78,15.56
+Gujarat,Anand,Citrus,9487.41,145315.96,15.13
+Andhra Pradesh,Anantapur,Citrus,9756.52,143247.89,14.65
+Gujarat,Bharuch,Citrus,9397.95,131041.27,14.61
+Gujarat,Valsad,Citrus,9474.12,135611.08,14.59
+Gujarat,Junagadh,Citrus,10442.42,146332.37,14.35
+Gujarat,Banaskantha,Citrus,9666.48,134161.48,13.9
+Karnataka,Belagavi,Citrus,10202.87,142581.66,13.77
+Karnataka,Kolar,Citrus,10282.77,140886.4,13.76
+Maharashtra,Jalgaon,Citrus,9676.38,129713.33,13.57
+Andhra Pradesh,Krishna,Citrus,9283.75,127870.37,13.47
+Maharashtra,Ratnagiri,Citrus,9123.66,123764.62,13.38
+Andhra Pradesh,Chittoor,Citrus,10922.03,141807.22,13.07
+Andhra Pradesh,Guntur,Citrus,8429.74,115000.99,12.99
+Karnataka,Vijayapura,Citrus,8922.4,108195.83,11.96
+Maharashtra,Nagpur,Citrus,8640.19,100276.96,11.81
+Karnataka,Tumakuru,Citrus,10906.4,126603.09,11.6
+Andhra Pradesh,Guntur,Grapes,6563.38,174417.08,27.42
+Andhra Pradesh,Krishna,Grapes,6455.44,169839.55,26.74
+Maharashtra,Nashik,Grapes,6275.64,165819.04,26.29
+Karnataka,Tumakuru,Grapes,5811.79,149760.14,26.08
+Karnataka,Belagavi,Grapes,6184.32,160884.4,25.91
+Maharashtra,Ahmednagar,Grapes,6038.98,153400.16,25.9
+Andhra Pradesh,Chittoor,Grapes,5320.05,126906.75,24.19
+Andhra Pradesh,Cuddapah,Grapes,7132.5,172793.83,24.16
+Andhra Pradesh,Anantapur,Grapes,5496.94,132835.01,23.76
+Karnataka,Vijayapura,Grapes,6627.67,158452.27,23.61
+Maharashtra,Ratnagiri,Grapes,6795.52,165757.84,23.61
+Maharashtra,Nagpur,Grapes,6058.3,141924.54,23.24
+Karnataka,Chikkaballapur,Grapes,6955.16,160325.99,22.91
+Karnataka,Kolar,Grapes,6355.45,143288.45,22.88
+Maharashtra,Jalgaon,Grapes,7315.03,152284.58,21.41
+Gujarat,Valsad,Guava,5589.15,100000.9,17.96
+Uttar Pradesh,Ayodhya,Guava,4077.98,71121.92,17.21
+Gujarat,Junagadh,Guava,5338.63,93269.62,17.12
+Gujarat,Anand,Guava,5264.36,89799.11,16.81
+Andhra Pradesh,Anantapur,Guava,4995.9,82546.73,16.5
+Andhra Pradesh,Chittoor,Guava,4435.31,69703.37,16.12
+Gujarat,Banaskantha,Guava,4624.49,74419.83,16.0
+Maharashtra,Jalgaon,Guava,5474.24,86208.7,15.87
+Uttar Pradesh,Saharanpur,Guava,5323.03,84338.78,15.86
+Maharashtra,Ahmednagar,Guava,4645.78,73593.35,15.72
+Uttar Pradesh,Varanasi,Guava,5180.92,77737.49,15.14
+Maharashtra,Nagpur,Guava,5200.63,82448.78,15.12
+Maharashtra,Nashik,Guava,5240.46,80876.15,15.08
+Andhra Pradesh,Guntur,Guava,5004.29,75424.69,15.06
+Andhra Pradesh,Krishna,Guava,5242.39,78951.91,14.67
+Gujarat,Bharuch,Guava,4859.92,72439.37,14.6
+Uttar Pradesh,Bareilly,Guava,4400.09,62343.26,13.69
+Andhra Pradesh,Cuddapah,Guava,5415.0,72078.65,13.14
+Uttar Pradesh,Lucknow,Guava,4811.78,60910.86,13.07
+Maharashtra,Ratnagiri,Guava,4867.84,60697.92,12.83
+Maharashtra,Ahmednagar,Mango,9808.64,119840.16,12.28
+Karnataka,Chikkaballapur,Mango,12687.75,153906.2,12.16
+Karnataka,Tumakuru,Mango,13634.75,161785.5,11.67
+Uttar Pradesh,Bareilly,Mango,12963.31,152091.94,11.53
+Maharashtra,Jalgaon,Mango,11533.34,131661.51,11.52
+Karnataka,Kolar,Mango,10757.49,121810.4,11.45
+Gujarat,Anand,Mango,11968.48,126246.78,10.73
+Uttar Pradesh,Saharanpur,Mango,12007.87,126533.24,10.62
+Maharashtra,Nashik,Mango,12416.34,130382.29,10.58
+Uttar Pradesh,Ayodhya,Mango,10845.34,113348.88,10.54
+Gujarat,Valsad,Mango,13334.41,134975.18,10.51
+Andhra Pradesh,Krishna,Mango,12109.92,128137.86,10.4
+Andhra Pradesh,Cuddapah,Mango,12006.92,129640.35,10.3
+Andhra Pradesh,Guntur,Mango,11454.78,116480.38,10.28
+Uttar Pradesh,Varanasi,Mango,11967.42,118520.31,10.25
+Uttar Pradesh,Lucknow,Mango,14416.87,148401.26,10.24
+Andhra Pradesh,Anantapur,Mango,12309.71,123274.15,10.23
+Andhra Pradesh,Chittoor,Mango,12447.93,127887.21,10.18
+Gujarat,Banaskantha,Mango,10794.78,105780.59,10.18
+Karnataka,Belagavi,Mango,12600.89,125802.01,10.08
+Maharashtra,Ratnagiri,Mango,13475.91,135151.65,10.02
+Gujarat,Junagadh,Mango,9157.61,85515.17,9.21
+Gujarat,Bharuch,Mango,10488.95,88287.68,8.71
+Karnataka,Vijayapura,Mango,14087.92,121080.6,8.56
+Maharashtra,Nagpur,Mango,15073.36,117807.28,7.99
