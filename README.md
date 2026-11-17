@@ -83,8 +83,11 @@ indian-orchards-fruit-yield-diagnostic/
 ---
 *Created as part of an Applied Data Intelligence & Business Analytics Portfolio.*
 
-Author & Contact
-Author: Somnath Banerjee
-Role: Aspiring Business Analyst & Data Intelligence Specialist
-LinkedIn: linkedin.com/in/somnath-banerjee-621720239
-GitHub: banerjeesomnath1154-dotcom
+---
+
+## 👤 Author & Contact
+* **Author:** Somnath Banerjee
+* **Role:** Aspiring Business Analyst & Geospatial BI Specialist
+* **LinkedIn:** linkedin.com/in/somnath-banerjee-621720239
+* **GitHub:** https://github.com/banerjeesomnath1154-dotcom
+
